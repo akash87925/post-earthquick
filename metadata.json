@@ -1,0 +1,8 @@
+{
+  "name": "Post-Earthquake Structural Damage Detection System1",
+  "description": "Post-earthquake structural damage detection system using Computer Vision and AI to assess building safety.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
